@@ -1,0 +1,7 @@
+ColumnLimit: 120
+BreakBeforeBraces: Attach
+AlignAfterOpenBracket: AlwaysBreak
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakTemplateDeclarations: true
+BinPackArguments: false
+BinPackParameters: false
