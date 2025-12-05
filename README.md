@@ -26,3 +26,16 @@ set(TORCH_LIBRARIES
 
 Then run build.sh.
 
+## Citation
+```
+@misc{liu2025utriceunifyingprimitivesdifferentiable,
+      title={UTrice: Unifying Primitives in Differentiable Ray Tracing and Rasterization via Triangles for Particle-Based 3D Scenes}, 
+      author={Changhe Liu and Ehsan Javanmardi and Naren Bao and Alex Orsholits and Manabu Tsukada},
+      year={2025},
+      eprint={2512.04421},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.04421}, 
+}
+```
+
